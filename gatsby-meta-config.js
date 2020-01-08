@@ -2,7 +2,7 @@ module.exports = {
   title: `Minzoovv.dev`,
   description: `Blog posted about programming!`,
   author: `minzoovv`,
-  introduction: `I am Growing developer :D`,
+  introduction: `성장하고 있는 개바라기 입니다 :D`,
   siteUrl: `https://github.com/minzoovv/minzoovv.dev`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
