@@ -13,7 +13,7 @@ module.exports = {
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
   comment: {
-    disqusShortName: '@minzoovv', // Your disqus-short-name. check disqus.com.
+    disqusShortName: '', // Your disqus-short-name. check disqus.com.
     utterances: 'minzoovv/minzoovv.dev', // Your repository for archive comment
   },
   configs: {
