@@ -1,5 +1,5 @@
 ---
-title: Korea Hacks 고카톤 후기
+title: 2020 Korea Hacks 고카톤 후기
 date: 2020-01-08 13:01:78
 category: retrospection
 draft: false
