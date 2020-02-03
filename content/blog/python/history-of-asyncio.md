@@ -15,6 +15,7 @@ draft: false
 
 <hr>
 <br>
+
 2000년대 초반부터, Python을 비롯한 많은 프로그래밍 언어에서 비동기 프로그래밍을 더욱 쉽게하기 위한 framework의 발전이 계속 이루어져 왔다.
 
 놀랍게도, Python에 대한 비동기 프로그래밍 지원은 1999년 Python 1에서 `Asyncore`라는 라이브러리로 시작되고 있었다. 그 이후에도 비동기와 관련된 다양한 Standard Library와 Asynchronous Programming을 위한 문법들이 계속해서 생겨났다.
