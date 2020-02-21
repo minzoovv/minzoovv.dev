@@ -1,6 +1,6 @@
 ---
 title: 놀라운 Rust! - Ownership (1)
-date: 2020-02-06 00:02:23
+date: 2020-02-21 00:02:23
 category: rust
 draft: false
 ---
