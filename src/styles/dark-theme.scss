@@ -17,6 +17,12 @@ body.dark {
     }
     a {
       color: $dark-link-color;
+
+      &:hover {
+        background-color: $light-category-border-color;
+        color: $light-link-color;
+        transition: ease 1s;
+      }
     }
   }
 
