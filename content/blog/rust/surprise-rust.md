@@ -1,6 +1,6 @@
 ---
 title: 놀라운 Rust!
-date: 2020-02-06 00:02:24
+date: 2020-02-21 00:02:24
 category: rust
 draft: false
 ---
