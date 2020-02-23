@@ -1,6 +1,6 @@
 ---
 title: 놀라운 Rust!
-date: 2020-02-21 00:02:24
+date: 2020-02-21 00:02:22
 category: rust
 draft: false
 ---
@@ -31,3 +31,5 @@ Rust의 기본적인 문법과 개념들은 Rust의 [Documentation](https://www.
 그렇게 배운 것들을 계속해서 정리해 나가는 중이며, 그에 대한 내용들은 아래에서 확인할 수 있다.
 
 - ### [1. OwnerShip (1)](../surprise-rust-1-ownership)
+
+- ### [2. OwnerShip (2)](../surprise-rust-2-ownership)

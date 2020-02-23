@@ -28,11 +28,16 @@ $light-gray: #aaa;
 // blog-templates
 $navigator-text-color: #cc007a;
 $navigator-background-color: #fceff7;
-$blockquote-text-color: #999;
+
+$blockquote-text-color: #e78858;
+$light-blockquote-text-color: #885fa6;
+$light-blockquote-line-color: #ddc5ee;
+$dark-blockquote-text-color: #e78858;
+$dark-blockquote-line-color: #ffac82;
 
 // code
-$inline-dimmed-color: #ece5f1;
-$inline-text-color: #4b2043;
+$inline-dimmed-color: #eee;
+$inline-text-color: #585767;
 
 // category
 $light-category-border-color: #ecf0f2;
