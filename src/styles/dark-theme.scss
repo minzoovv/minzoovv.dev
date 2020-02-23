@@ -74,7 +74,8 @@ body.dark {
 
   // post
   blockquote {
-    border-left: 4px solid rgba(255, 255, 255, 0.822);
+    border-left: 4px solid #ffac82;
+    color: $dark-blockquote-text-color;
   }
 
   h1,

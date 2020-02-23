@@ -72,6 +72,11 @@ body.light {
   }
 
   // post
+  blockquote {
+    border-left: 4px solid $light-blockquote-line-color;
+    color: $light-blockquote-text-color;
+  }
+
   .navigator {
     a {
       background-color: $navigator-background-color;
