@@ -29,7 +29,7 @@ lang: 'ko'
 
 - **공과대학 정보시스템학과** 주전공
 - **컴퓨터 소프트웨어학부** 다중전공
-- GPA 4.23 / 4.5
+- GPA 4.22 / 4.5
 
 ## Goyang Global High School
 
@@ -43,7 +43,7 @@ lang: 'ko'
 
 |              |                                                             |
 | -----------: | ----------------------------------------------------------- |
-|   **Period** | 19.06 ~ Current                                             |
+|   **Period** | 19.06 ~ 20.04                                               |
 | **Position** | 파이썬 백엔드 개발자                                        |
 | **Projects** | 마이크로서비스 유지보수 및 Migration, Core Framework 테스터 |
 
@@ -62,7 +62,18 @@ lang: 'ko'
   - SQS를 기반으로 한 Self Queue 구조 도입
   - Clean Architecture 기반 서비스 Refactoring
 
-<br>
+## UserSupport Zendesk Trigger Automation
+
+- 20.02 ~ 20.03
+- _Python_, _Zendesk_, _Redis_
+
+  운영팀의 User CS Ticket 운용을 위한 Trigger를 자동으로 생성해주는 프로젝트 진행
+
+  - 트리거 생성 핸들링을 위한 Redis 기반 Redlock 적용
+  - Zendesk Developer API 이용
+  - Clean Architecture를 기반으로 한 기능 구현
+
+  <br>
 
 # Activities :rocket:
 
