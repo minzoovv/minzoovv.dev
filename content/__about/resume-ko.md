@@ -107,7 +107,7 @@ lang: 'ko'
 - 포지션:
   - 서비스의 전반적인 스택 설계 및 백엔드 DB 연동 담당
 
-### [Kisabucks](https://https://github.com/koreaa8/kisaBucks)
+### [Kisabucks](https://github.com/koreaa8/kisaBucks)
 
 핀테크아카데미에서 주관하는 핀테크 개발 교육에서 해커톤을 진행하였고, _소상공인들을 위한 사이렌 오더 서비스_ 인 **Kisabucks**를 제작하였습니다.
 
