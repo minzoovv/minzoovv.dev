@@ -1,6 +1,6 @@
 ---
 title: '[프로그래머스] 코테연습 뽀개기 1'
-date: 2020-05-18 20:05:37
+date: 2020-05-10 20:05:37
 category: algorithm
 draft: false
 ---
