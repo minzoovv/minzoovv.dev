@@ -4,13 +4,17 @@ date: 2019-12-31 16:21:13
 lang: 'ko'
 ---
 
-# Minzoovv :v:
+# Minzoovv (Minju Kang) :v:
 
 **Python** 백엔드 개발자 강민주입니다.  
-좋은 사람들과 함께하는 개발을 좋아하고 늘 성장하는 개발자가 되고자 합니다 :D  
+좋은 사람들과 함께하는 개발을 좋아하는, 누군가에게 영감을 받기도 하고 때로는 주기도 하는 귀감이 되는 개발자가 되고자 합니다 :D  
 백엔드 개발자이지만, **React** 와 **Frontend** 개발에도 관심이 무지무지 많습니다!
 
-`#Python` `#Sanic` `#CleanCode` `#Architecture`  
+동료, 회사를 생각하는 코드 작성에 관심이 많습니다. Readability가 높은 코드를 작성하는 것, 유지보수가 쉬운 구조를 설계하는 것에 집중해 **Clean Code**, **Clean Architecture**에 대한 공부를 해나가고 있습니다.
+
+## Skills
+
+`#Python` `Sanic` `#CleanCode` `#CleanArchitecture`  
 `#Javascript` `#React` `#Documentation`
 
 |            |                             |
@@ -107,7 +111,7 @@ lang: 'ko'
 - 포지션:
   - 서비스의 전반적인 스택 설계 및 백엔드 DB 연동 담당
 
-### [Kisabucks](https://https://github.com/koreaa8/kisaBucks)
+### [Kisabucks](https://github.com/koreaa8/kisaBucks)
 
 핀테크아카데미에서 주관하는 핀테크 개발 교육에서 해커톤을 진행하였고, _소상공인들을 위한 사이렌 오더 서비스_ 인 **Kisabucks**를 제작하였습니다.
 

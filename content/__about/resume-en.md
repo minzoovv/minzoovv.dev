@@ -108,7 +108,7 @@ I created _Korean menu translator Facebook Messenger Chat-Bot_, **Before Order**
 - Position:
   - Service Architecture & Database Intergration
 
-### [Kisabucks](https://https://github.com/koreaa8/kisaBucks)
+### [Kisabucks](https://github.com/koreaa8/kisaBucks)
 
 I participated in the Fintech Academy and I created _Siren Order Service for the Small Enterprise_, **Kisabucks**.
 
